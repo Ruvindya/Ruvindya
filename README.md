@@ -1,4 +1,5 @@
 ### Hi im ruvi  👋
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
 <!--
 **Ruvindya/Ruvindya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
