@@ -1,7 +1,7 @@
-### Hi im ruvi  👋
+
 
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FC515&background=000000&width=435&lines=Hello+there!;I'm+Ruvindya+Sachinthani;Welcome+to+my+README!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=20&color=2FC515&background=000000&multiline=true&width=435&lines=Hello+there!;I'm+Ruvindya+Sachinthani;Welcome+to+my+README!" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
